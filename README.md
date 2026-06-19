@@ -333,4 +333,4 @@ Check the log file `data/process_guardian.log` for detailed runtime information.
 
 ---
 
-*Last updated: 2026-06-13*
+*Last updated: 2026-06-19*
